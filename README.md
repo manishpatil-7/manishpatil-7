@@ -15,7 +15,7 @@
  
 ```yaml
 > const dev = {
-    name: "Manish Madhukar Patil",
+    name: "Manish Patil",
     role: "Computer Science Engineer",
     location: "Kolhapur, Maharashtra, India 🇮🇳",
     currentFocus: "Full-Stack Dev + Multi-Agent RAG Systems",
